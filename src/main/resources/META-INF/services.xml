@@ -1,0 +1,5 @@
+<idea-plugin>
+    <extensions defaultExtensionNs="com.intellij">
+        <projectService serviceImplementation="org.jetbrains.plugins.template.services.MyProjectService"/>
+    </extensions>
+</idea-plugin>
